@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Mendy - a Sr Director of Devops at [Prodege](https://www.prodege.com)
+
+I focus on automating all the things using open source tools and enjoy being able to give back to those communities via code. 
+Current tools include: Jenkins, Terraform, Chef, Fastlane and Docker
+
+📬 You can reach me on [LinkedIn](https://www.linkedin.com/in/mbaitelman/) 
 <!--
 **mbaitelman/mbaitelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
