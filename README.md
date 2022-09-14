@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mendy - a Sr Director of Devops at [Prodege](https://www.prodege.com)
+I'm Mendy - a VP for Platform at [Prodege](https://www.prodege.com)
 
 I focus on automating all the things using open source tools and enjoy being able to give back to those communities via code. 
 Current tools include: Jenkins, Terraform, Chef, Fastlane and Docker
